@@ -1,0 +1,39 @@
+.divA{
+    background-color:yellow;
+    width: 500px;
+    height: 500px;
+    border:3px solid black;
+    display: flex;
+    border-radius: 300px;
+    
+            }
+.divB{
+    background-color: blue;
+    width: 60%;
+    margin: 25% auto;
+    position: center;
+    border-radius: 100px;
+    
+            }
+.divC{
+    display: flex;
+    color: black;
+    background-color: white;
+    font-size: 12px;
+    font-family:monospace;
+    
+    border-radius: 50px;
+    position: absolute;
+    left: 28%;
+    top: 36%;
+    width: 180px;
+
+            }
+
+.Paragrafo{
+    font:weight 600px;
+            }
+
+
+        
+        
